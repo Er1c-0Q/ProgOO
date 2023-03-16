@@ -21,10 +21,22 @@ Es cuando separamos un objeto de su comportamiento, en otras palabras nos enfoca
 La abstracción sirve como herramienta para el modelado. El modelado en la programación es esencial para ayudar a resolver problemas, 
 representando partes o componentes de ese problema. Lo que se trata de modelar o representar en el programa es el funcionamiento de estas partes.
 
-### Explica el concepto de encapsulamiento, busca dos imágenes que te ayuden a describir el concepto, una que tenga algún 
-sistema sin encapsulamiento y otra donde sí lo tenga. Menciona porque es importante y qué problemas puede evitar.
+### Concepto de encapsulamiento.
 
 La encapsulación es un mecanismo para reunir datos y métodos dentro de una estructura ocultando la implementación del objeto.
 
-[![encapsulamiento](https://i.postimg.cc/RFh2TKXX/oop-car-methods-and-attributes.webp)](https://postimg.cc/Q9L689LT)
+(Este es un ejemplo de cuando los datos están encapsulados, ya que estos cuentan con modificadores de acceso)
+[![Encapsulamiento3](https://i.postimg.cc/sxZBSmxp/Encapsulamiento3.jpg)](https://postimg.cc/WqTbcMM3)
+
+(Este es un ejemplo de cuando los datos No están encapsulados, ya que estos no cuentan con modificadores de acceso)
+[![Noencapsulado](https://i.postimg.cc/PqP8TdH3/static1.png)](https://postimg.cc/sBC2Jdv7)
+
+El encapsulamiento es algo importante, porque nos sirve para mayor seguridad de los datos, y esto podria evitar que se manipulen o se usen de manera ilícita.
+
+### Herencia
+
+La herencia es cuando tenemos una clase padre y queremos hacer otra clase con los mismo atributos pero con agregaciones nuevas, a esta se le llama clase hija.
+[![herencia.png](https://i.postimg.cc/fy9RrbxX/herencia.png)](https://postimg.cc/n9nxspSc)
+
+
 
