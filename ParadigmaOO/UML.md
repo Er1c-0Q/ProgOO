@@ -28,5 +28,7 @@ El instituto tecnológico usa UML para adentrar a sus alumnos en POO.
 
 
 ### Máquina
+![image](https://user-images.githubusercontent.com/124117640/225685828-7a3b43d0-5a76-4b99-94a2-8195c96871d8.png)
+
 
 
