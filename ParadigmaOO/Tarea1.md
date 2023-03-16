@@ -36,6 +36,7 @@ El encapsulamiento es algo importante, porque nos sirve para mayor seguridad de 
 ### Herencia
 
 La herencia es cuando tenemos una clase padre y queremos hacer otra clase con los mismo atributos pero con agregaciones nuevas, a esta se le llama clase hija.
+La herencia permite crear clases que reutilizan, extienden y modifican el comportamiento definido en otras clases.
 [![herencia.png](https://i.postimg.cc/fy9RrbxX/herencia.png)](https://postimg.cc/n9nxspSc)
 
 
