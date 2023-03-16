@@ -12,7 +12,7 @@ Programación Orientada a objetos
 
 Profesor: Mario García Valdez
 
-Tarea Udidad 1
+Investigación Unidad 1
 
 ADAN ERIC OJEDA QUINTERO
 22211625
