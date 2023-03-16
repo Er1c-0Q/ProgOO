@@ -1,10 +1,10 @@
 # ProgOO
-# H3 Programación Orientada a Objetos
+### Programación Orientada a objetos
 
 Profesor: Mario García Valdez
 
 Adán Eric Ojeda Quintero
-
+  
 22211625
 
 
