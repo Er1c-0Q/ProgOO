@@ -1,11 +1,24 @@
 # ProgOO
-### Programación Orientada a objetos
+
+
+### TECNOLÓGICO NACIONAL DE MÉXICO
+### INSTITUTO TECNOLÓGICO DE TIJUANA
+
+DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
+INGENIERÍA EN SISTEMAS COMPUTACIONALES
+2DO SEMESTRE ENERO-JUNIO
+
+Programación Orientada a objetos
 
 Profesor: Mario García Valdez
 
-Adán Eric Ojeda Quintero
-  
+Tarea Udidad 1
+
+ADAN ERIC OJEDA QUINTERO
 22211625
+
+
+15 DE MARZO DEL 2023
 
 
 
