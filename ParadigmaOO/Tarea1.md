@@ -1,4 +1,4 @@
-### El Paradigma OO
+## El Paradigma OO
 
 En programación, se conocen como paradigmas deprogramación a los métodos usados para realizar determinadas tareas o proyectos.
 En otras palabras, son métodos de programación de software que sirven para resolver un problema de sistemas o para llegar a los resultados esperados.
