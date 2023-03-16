@@ -26,5 +26,5 @@ sistema sin encapsulamiento y otra donde sí lo tenga. Menciona porque es import
 
 La encapsulación es un mecanismo para reunir datos y métodos dentro de una estructura ocultando la implementación del objeto.
 
-/../ProgOO/img/
+img/README.md
 
